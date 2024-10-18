@@ -1,7 +1,7 @@
 ## Hi there, I am Vaishak 👋
 
 ### Connect with me 🌐
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Vaishak0808)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishak-a-0aa9a6136/)
 
 
